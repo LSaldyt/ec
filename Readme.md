@@ -210,7 +210,7 @@ binaries.
 Get Rust (e.g. `curl https://sh.rustup.rs -sSf | sh` according to
 [https://www.rust-lang.org/](https://www.rust-lang.org/en-US/install.html))
 
-Now running make in the `rust_compressor` folder should install the right
+Now running `cargo build` in the `rust_compressor` folder should install the right
 packages and build the binary.
 
 ### PyPy
